@@ -4,14 +4,6 @@ import SearchBar from './searchBar/searchBar';
 import SearchFilter from './searchFilter/searchFilter';
 import SearchResults from './searchResults/searchResults';
 
-// api key: AIzaSyDU51la7XQeUPpOQJ55ue3seE2sfhzTlcg
-//base url GET https://www.googleapis.com/books/v1/volumes?q=
-//variable for user input flowers+inauthor:keyes&key=yourAPIKey
-
-
-
-
-
 
 class App extends Component {
   constructor(props) {
